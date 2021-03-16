@@ -1,7 +1,7 @@
 //Nama    	: Dewi Nur Arifah
 //NIM 		: 20051397079
 //KELAS 	: 2020-A
-// (nomer 5) QUEUE - Program membuat simulasi tempat parkir
+// (nomer 5) QUEUE - Program Data Mahasiswa
 
 #include <iostream>
 #include <conio.h>
